@@ -11,7 +11,7 @@ namespace BasicProgram
         static void Main(string[] args)
         {
             Sample obj = new Sample();
-            int sumResult = obj.Sum((4, 5);
+            int sumResult = obj.Sum(4, 5);
             Console.WriteLine("Sum result is :");
             Console.WriteLine(sumResult);
             Console.Read();
