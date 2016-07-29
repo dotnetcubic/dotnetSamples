@@ -13,7 +13,9 @@ namespace BasicProgram
             Sample obj = new Sample();
             int sumResult = obj.Sum(4, 5);
             Console.WriteLine("Sum result is :");
-            Console.WriteLine(sumResult);
+            Console.WriteLine(sumResult);          
+            Console.WriteLine(Class4.Add(4, 5));
+
             Console.WriteLine("Write some and try pushing from git");
             Console.Read();
 
