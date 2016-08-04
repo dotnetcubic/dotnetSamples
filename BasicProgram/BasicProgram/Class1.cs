@@ -12,7 +12,14 @@ namespace BasicProgram
         // Hello World 
         //what else can we do?
         // its too hot 
+<<<<<<< HEAD
 //this is just a test.
+=======
+        //added ok?
+        //add by sound
+        
+
+>>>>>>> a9feb419869f24f0f40925311ba490798ed80897
     
     }
 }
