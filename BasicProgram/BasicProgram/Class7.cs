@@ -8,5 +8,6 @@ namespace BasicProgram
 {
     class Class7
     {
+        //just testing
     }
 }
