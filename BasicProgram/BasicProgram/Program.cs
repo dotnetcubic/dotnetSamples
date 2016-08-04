@@ -10,7 +10,7 @@ namespace BasicProgram
     {
         static void Main(string[] args)
         {
-            //Comment Addes by Sugat Bhattarai?
+            //Comment Addes by Sugat?
             Sample obj = new Sample();
             int sumResult = obj.Sum(4, 5);
             Console.WriteLine("Sum result is :");
