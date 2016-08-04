@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BasicProgram
 {
-    class Class7
+    class Class8
     {
-     //This changes is made by Bijay Sharma
+        //This class is added by Bijay Sharma.
     }
 }

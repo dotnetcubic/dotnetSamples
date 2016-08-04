@@ -10,6 +10,7 @@ namespace BasicProgram
     {
         static void Main(string[] args)
         {
+            //Comment Addes by Sugat?
             Sample obj = new Sample();
             int sumResult = obj.Sum(4, 5);
             Console.WriteLine("Sum result is :");
@@ -19,7 +20,7 @@ namespace BasicProgram
             Console.WriteLine("Write some and try pushing from git");
             Console.Read();
 
-
+            //whatever connection is there its good.
 
 
         }
