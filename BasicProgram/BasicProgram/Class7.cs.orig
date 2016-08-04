@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace BasicProgram
 {
-    class Class6
+    class Class7
     {
-        //my turn to comment here. dhanyabad.
-
-        // learning Git tools 
+<<<<<<< HEAD
+     //Thankyou!
+=======
+     //This changes is made by Bijay Sharma
+>>>>>>> 5eaa04cebf7d49d0f0bf9518a02935df482c9df1
     }
 }
