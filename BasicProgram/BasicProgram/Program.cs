@@ -19,7 +19,7 @@ namespace BasicProgram
             Console.WriteLine("Write some and try pushing from git");
             Console.Read();
 
-
+            //whatever connection is there its good.
 
 
         }
