@@ -9,5 +9,6 @@ namespace BasicProgram
     class Class2
     {
         //added comment
+
     }
 }
