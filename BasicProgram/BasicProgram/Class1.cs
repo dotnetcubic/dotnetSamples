@@ -12,7 +12,7 @@ namespace BasicProgram
         // Hello World 
         //what else can we do?
         // its too hot 
-        // Java vs Dotnet
+        //added ok?
         //add by sound
         
 
