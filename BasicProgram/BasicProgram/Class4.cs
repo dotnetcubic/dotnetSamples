@@ -10,6 +10,7 @@ namespace BasicProgram
     {
         public static int Add(int a, int b)
         {
+            // comment by sujal
             return (a + b) ;
         }
     }
