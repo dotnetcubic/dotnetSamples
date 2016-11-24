@@ -41,6 +41,12 @@ namespace BasicProgram
             return result;
         }
 
+        public void SampleAdd()
+        {
+
+
+        }
+
     }
 
 
