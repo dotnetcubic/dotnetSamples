@@ -18,7 +18,7 @@ namespace BasicProgram
         //add by sound
         //Added by Bijay
 
-        string x = "Hello world";
+       
 
     
     }
