@@ -13,12 +13,12 @@ namespace BasicProgram
         //what else can we do?
         // its too hot 
 
-//this is just a test.
+        //this is just a test.
         //added ok?
         //add by sound
-		//Added by Bijay
-        
+        //Added by Bijay
 
+        string x = "Hello world";
 
     
     }
